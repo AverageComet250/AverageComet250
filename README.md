@@ -13,10 +13,5 @@ C[Getting rejected];
 D[Procrastination];
 E[Failure];
 F[Repeat];
-A-->B;
-B-->C;
-C-->D;
-D-->E;
-E-->F;
-F-->A;
+A-->B;B-->C;C-->D;D-->E;E-->F;F-->A;
 ```
