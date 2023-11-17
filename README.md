@@ -5,7 +5,7 @@ I like CSGO (men too)
 here is a quick flowchart
 
 ```mermaid
-Graph TD
+Graph TD;
 A[Feeling Sad];
 B[Talking to men];
 C[Getting rejected];
