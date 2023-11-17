@@ -1,16 +1,15 @@
-### Hi there 👋
+# EYYYYYYYY GUYS ITS ME SHRAVAN
 
-<!--
-**AverageComet250/AverageComet250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like CSGO (men too)
 
-Here are some ideas to get you started:
+here is a quick flowchart
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```mermaid
+Graph TD
+A[Feeling Sad];
+B[Talking to men];
+C[Getting rejected];
+A-->B;
+B-->C;
+C-->A;
+```
