@@ -4,12 +4,19 @@ I like CSGO (men too)
 
 here is a quick flowchart
 
+
 ```mermaid
-Graph TD;
-A[Feeling Sad];
+graph TD
+A[Feeling sad];
 B[Talking to men];
 C[Getting rejected];
+D[Procrastination];
+E[Failure];
+F[Repeat];
 A-->B;
 B-->C;
-C-->A;
+C-->D;
+D-->E;
+E-->F;
+F-->A;
 ```
