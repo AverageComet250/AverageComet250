@@ -4,7 +4,6 @@ I like CSGO (men too)
 
 here is a quick flowchart
 
-
 ```mermaid
 graph TD
 A[Feeling sad];
