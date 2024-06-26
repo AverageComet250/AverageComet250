@@ -17,5 +17,3 @@ F[Repeat];
 A-->B;B-->C;C-->D;D-->E;E-->F;F-->A;
 ```
 -->
-
-@yeetface513 is an idiot
