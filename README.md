@@ -5,4 +5,6 @@ _absolutely nothing_
 [sourcehut](https://sr.ht/~comet) and a personal git server, mirrors will
 propagate over time
 
+listing projects and technologies is larp, learn to learn instead
+
 :ukraine: :palestinian_territories: :rainbow_flag:
