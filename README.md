@@ -7,6 +7,6 @@ nitro on NetBSD.
 - Computer Science isn't language specific, or even framework specific - learn
   to learn instead
 
-All desktop operating systems are valid (OpenBSD isn't a desktop OS)
+- All desktop operating systems are valid (OpenBSD isn't a desktop OS)
 
 :ukraine: :palestinian_territories: :rainbow_flag:
