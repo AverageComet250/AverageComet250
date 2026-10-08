@@ -1,9 +1,8 @@
 Computer Scientist and Electrical Engineer, currently writing service files for
 nitro on NetBSD.
 
-- I'm in the process of moving my public projects to
-[sourcehut](https://sr.ht/~comet) and a personal git server, mirrors will
-propagate over time
+- I'm currently in the process of moving to [sourcehut](https://sr.ht/~comet),
+  although projects mirrors will be made available here over time
 
 listing projects and technologies is larp, learn to learn instead
 
