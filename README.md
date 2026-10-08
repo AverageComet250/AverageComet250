@@ -1,5 +1,5 @@
-Computer Scientist and Electrical Engineer, currently building
-_absolutely nothing_
+Computer Scientist and Electrical Engineer, currently writing service files for
+nitro on NetBSD.
 
 - I'm in the process of moving my public projects to
 [sourcehut](https://sr.ht/~comet) and a personal git server, mirrors will
