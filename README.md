@@ -4,7 +4,8 @@ nitro on NetBSD.
 - I'm currently in the process of moving to [sourcehut](https://sr.ht/~comet),
   although projects mirrors will be made available here over time
 
-listing projects and technologies is larp, learn to learn instead
+- Computer Science isn't language specific, or even framework specific - learn
+  to learn instead
 
 All desktop operating systems are valid (OpenBSD isn't a desktop OS)
 
